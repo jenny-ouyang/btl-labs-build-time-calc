@@ -5,7 +5,7 @@
   "subdomain": "build-time-calc.buildtolaunch.ai",
   "status": "building",
   "startedAt": "2026-03-11T21:24:18Z",
-  "updatedAt": "2026-03-11T21:30:39Z",
+  "updatedAt": "2026-03-11T21:30:41Z",
   "completedAt": null,
   "stages": {
     "architect": {
@@ -18,7 +18,7 @@
     },
     "features": {
       "status": "in_progress",
-      "current": 1,
+      "current": 2,
       "total": 3,
       "items": [
         {
@@ -31,11 +31,11 @@
         },
         {
           "name": "Results Display with Breakdown",
-          "status": "pending",
-          "sessionId": null,
-          "startedAt": null,
+          "status": "building",
+          "sessionId": "session-2-feature",
+          "startedAt": "2026-03-11T21:30:41Z",
           "completedAt": null,
-          "model": null
+          "model": "sonnet"
         },
         {
           "name": "Polish and SEO",
