@@ -3,10 +3,10 @@
   "app": "build-time-calc",
   "repo": "jenny-ouyang/btl-labs-build-time-calc",
   "subdomain": "build-time-calc.buildtolaunch.ai",
-  "status": "building",
+  "status": "deployed",
   "startedAt": "2026-03-11T21:24:18Z",
-  "updatedAt": "2026-03-11T21:36:52Z",
-  "completedAt": null,
+  "updatedAt": "2026-03-11T21:39:56Z",
+  "completedAt": "2026-03-11T22:30:00Z",
   "stages": {
     "architect": {
       "status": "done",
@@ -48,22 +48,22 @@
       ]
     },
     "deploy": {
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "model": "haiku",
-      "vercelUrl": null,
-      "customDomain": null,
+      "status": "done",
+      "startedAt": "2026-03-11T21:36:53Z",
+      "completedAt": "2026-03-11T22:30:00Z",
+      "model": "sonnet",
+      "vercelUrl": "https://app-4m1kobycx-jenny-ouyangs-projects.vercel.app",
+      "customDomain": "build-time-calc.labs.buildtolaunch.ai",
       "dnsConfigured": false,
       "labsPageUpdated": false
     }
   },
   "errors": [],
   "cost": {
-    "sessions": 5,
+    "sessions": 7,
     "models": {
       "opus": 2,
-      "sonnet": 3,
+      "sonnet": 5,
       "haiku": 0
     }
   }
