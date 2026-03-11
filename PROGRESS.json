@@ -5,7 +5,7 @@
   "subdomain": "build-time-calc.buildtolaunch.ai",
   "status": "building",
   "startedAt": "2026-03-11T21:24:18Z",
-  "updatedAt": "2026-03-11T21:28:18Z",
+  "updatedAt": "2026-03-11T21:30:39Z",
   "completedAt": null,
   "stages": {
     "architect": {
@@ -23,10 +23,10 @@
       "items": [
         {
           "name": "Calculator Form and Core Logic",
-          "status": "building",
+          "status": "done",
           "sessionId": "session-1-feature",
           "startedAt": "2026-03-11T21:28:18Z",
-          "completedAt": null,
+          "completedAt": "2026-03-11T21:35:00Z",
           "model": "sonnet"
         },
         {
@@ -60,10 +60,10 @@
   },
   "errors": [],
   "cost": {
-    "sessions": 2,
+    "sessions": 3,
     "models": {
       "opus": 2,
-      "sonnet": 0,
+      "sonnet": 1,
       "haiku": 0
     }
   }
