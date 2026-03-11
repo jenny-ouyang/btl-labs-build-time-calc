@@ -20,7 +20,7 @@ Complexity: ${result.complexity} (${result.multiplier}x)
 Breakdown:
 ${result.breakdown.map((item) => `- ${item.feature}: ${item.hours} hrs`).join("\n")}
 
-Calculate yours at build-time-calc.labs.buildtolaunch.ai`
+Calculate yours at build-time-calc.buildtolaunch.ai`
 
     try {
       await navigator.clipboard.writeText(summary)

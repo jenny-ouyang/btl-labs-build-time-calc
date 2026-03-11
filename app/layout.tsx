@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Build Time Calculator | How Long Will Your SaaS Take to Build?",
     description: "Get an honest estimate of how long your SaaS project will take to build. Select features and complexity to calculate realistic build time in hours and days.",
-    url: "https://build-time-calc.labs.buildtolaunch.ai",
+    url: "https://build-time-calc.buildtolaunch.ai",
     siteName: "Build Time Calculator",
     type: "website",
   },

@@ -7,7 +7,7 @@
 
 - **What**: Estimate how long it takes to build a SaaS app based on features and complexity
 - **Who**: Indie hackers and solo developers planning their next project
-- **URL**: build-time-calc.labs.buildtolaunch.ai
+- **URL**: build-time-calc.buildtolaunch.ai
 - **Repo**: jenny-ouyang/btl-labs-build-time-calc
 - **Status**: scaffolding
 
@@ -18,7 +18,7 @@
 - **Database**: none (all client-side calculations)
 - **Styling**: Tailwind CSS 4 + shadcn/ui
 - **Deployment**: Vercel (auto-deploy on push to main)
-- **DNS**: Cloudflare (build-time-calc.labs.buildtolaunch.ai)
+- **DNS**: Cloudflare (build-time-calc.buildtolaunch.ai)
 - **Payments**: none
 - **Other**: none
 
@@ -118,7 +118,7 @@ interface CalculationResult {
 
 - **Platform**: Vercel
 - **Trigger**: Auto-deploy on push to `main`
-- **Domain**: build-time-calc.labs.buildtolaunch.ai
+- **Domain**: build-time-calc.buildtolaunch.ai
 - **DNS**: CNAME in Cloudflare -> cname.vercel-dns.com
 - **Environment**: No env vars needed
 

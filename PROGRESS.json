@@ -53,7 +53,7 @@
       "completedAt": "2026-03-11T22:30:00Z",
       "model": "sonnet",
       "vercelUrl": "https://app-4m1kobycx-jenny-ouyangs-projects.vercel.app",
-      "customDomain": "build-time-calc.labs.buildtolaunch.ai",
+      "customDomain": "build-time-calc.buildtolaunch.ai",
       "dnsConfigured": false,
       "labsPageUpdated": false
     }
