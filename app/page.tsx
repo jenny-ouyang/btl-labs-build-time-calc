@@ -1,4 +1,4 @@
-import { CalculatorForm } from "./_components/calculator-form"
+import { CalculatorWrapper } from "./_components/calculator-wrapper"
 
 export default function Home() {
   return (
@@ -17,7 +17,7 @@ export default function Home() {
         </div>
 
         {/* Calculator */}
-        <CalculatorForm />
+        <CalculatorWrapper />
       </div>
     </div>
   )
