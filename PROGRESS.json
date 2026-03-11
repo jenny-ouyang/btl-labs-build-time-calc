@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "app": "build-time-calc",
+  "repo": "jenny-ouyang/btl-labs-build-time-calc",
+  "subdomain": "build-time-calc.buildtolaunch.ai",
+  "status": "building",
+  "startedAt": "2026-03-11T21:24:18Z",
+  "updatedAt": "2026-03-11T21:28:15Z",
+  "completedAt": null,
+  "stages": {
+    "architect": {
+      "status": "done",
+      "startedAt": "2026-03-11T21:24:18Z",
+      "completedAt": "2026-03-11T21:25:00Z",
+      "model": "opus",
+      "sessionId": null,
+      "notes": "Scaffolded Next.js 15 + Tailwind CSS 4 + shadcn/ui project. No database or auth needed. Created CLAUDE.md with architecture spec, BUILDPLAN.md with 3 phases (calculator form, results display, polish/SEO). Pushed to jenny-ouyang/btl-labs-build-time-calc."
+    },
+    "features": {
+      "status": "pending",
+      "current": 0,
+      "total": 3,
+      "items": [
+        {
+          "name": "Calculator Form and Core Logic",
+          "status": "pending",
+          "sessionId": null,
+          "startedAt": null,
+          "completedAt": null,
+          "model": null
+        },
+        {
+          "name": "Results Display with Breakdown",
+          "status": "pending",
+          "sessionId": null,
+          "startedAt": null,
+          "completedAt": null,
+          "model": null
+        },
+        {
+          "name": "Polish and SEO",
+          "status": "pending",
+          "sessionId": null,
+          "startedAt": null,
+          "completedAt": null,
+          "model": null
+        }
+      ]
+    },
+    "deploy": {
+      "status": "pending",
+      "startedAt": null,
+      "completedAt": null,
+      "model": "haiku",
+      "vercelUrl": null,
+      "customDomain": null,
+      "dnsConfigured": false,
+      "labsPageUpdated": false
+    }
+  },
+  "errors": [],
+  "cost": {
+    "sessions": 2,
+    "models": {
+      "opus": 2,
+      "sonnet": 0,
+      "haiku": 0
+    }
+  }
+}
