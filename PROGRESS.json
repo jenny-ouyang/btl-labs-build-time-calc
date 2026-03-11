@@ -5,7 +5,7 @@
   "subdomain": "build-time-calc.buildtolaunch.ai",
   "status": "building",
   "startedAt": "2026-03-11T21:24:18Z",
-  "updatedAt": "2026-03-11T21:31:08Z",
+  "updatedAt": "2026-03-11T21:34:26Z",
   "completedAt": null,
   "stages": {
     "architect": {
@@ -31,10 +31,10 @@
         },
         {
           "name": "Results Display with Breakdown",
-          "status": "building",
+          "status": "done",
           "sessionId": "session-2-feature",
           "startedAt": "2026-03-11T21:31:08Z",
-          "completedAt": null,
+          "completedAt": "2026-03-11T22:15:00Z",
           "model": "sonnet"
         },
         {
@@ -60,10 +60,10 @@
   },
   "errors": [],
   "cost": {
-    "sessions": 3,
+    "sessions": 4,
     "models": {
       "opus": 2,
-      "sonnet": 1,
+      "sonnet": 2,
       "haiku": 0
     }
   }
