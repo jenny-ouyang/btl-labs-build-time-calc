@@ -18,6 +18,21 @@ export default function Home() {
 
         {/* Calculator */}
         <CalculatorWrapper />
+
+        {/* Footer */}
+        <footer className="mt-16 border-t border-zinc-200 pt-8 text-center">
+          <p className="text-sm text-zinc-600">
+            Built with the autonomous build system at{" "}
+            <a
+              href="https://buildtolaunch.ai"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-500 hover:text-blue-600 underline"
+            >
+              buildtolaunch.ai
+            </a>
+          </p>
+        </footer>
       </div>
     </div>
   )
